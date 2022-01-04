@@ -1,17 +1,17 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tacio Camba Espi
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tacio Camba Espi
+Ingeniero
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="info@tcamba.dev">info@tcamba.dev</a>
+| <a href="http://www.tcamba.dev">www.tcamba.dev</a>
 </div>
 
 
-## Currently
+## Actualmente
 
 Standing on the shoulders of giants
 
@@ -25,7 +25,19 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Experiencia
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+## Educación
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -41,19 +53,7 @@ __Trinity College, Cambridge__
 - Fellow
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Publicaciones
 
 ### Journals
 
@@ -64,28 +64,3 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
