@@ -31,22 +31,22 @@ Ingeniero I+D+i en __Cofrico SL__
 __Cofrico SL__, A Coruña
   
 - Proyecto - #TODO
-- Funciones - Ingeniero I+D+i. 
-- _Stack_ - #TODO
+- Funciones - Ingeniero I+D+i.  #TODO
+- _Stack_ - _Spring Framework_, #TODO
 
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
   
-- Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab 🔗](https://petab.readthedocs.io/en/stable/) para el software de optimización metaheurística [MEIGO 🔗](http://gingproc.iim.csic.es/meigo.html)
-- Funciones - Investigador en prácticas.
-- _Stack_ - #TODO
+- Proyecto - Desarrollo de la especificación [PEtab 🔗](https://petab.readthedocs.io/en/stable/) en [MEIGO 🔗](http://gingproc.iim.csic.es/meigo.html)
+- Funciones - Investigador en prácticas. #TODO
+- _Stack_ - _MATLAB_, #TODO
 
 `2018-2019`
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
   
-- Proyecto - Desarrollo en _Python_ y _C++_ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
-- Funciones - Becario.
-- _Stack_ - numpy, pandas, scikit-learn, [trimesh 🔗](https://github.com/mikedh/trimesh),  [pybind11 🔗](https://github.com/pybind/pybind11), [cgal 🔗](https://www.cgal.org/)...
+- Proyecto - Desarrollo de _CLI app_ para procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
+- Funciones - Becario. #TODO
+- _Stack_ - _Python_, _C++_, numpy, pandas, scikit-learn, [trimesh 🔗](https://github.com/mikedh/trimesh),  [pybind11 🔗](https://github.com/pybind/pybind11), [cgal 🔗](https://www.cgal.org/)...
 
 ## Educación
 
