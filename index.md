@@ -39,7 +39,8 @@ __Cofrico SL__, A Coruña
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
 
 - Investigador en prácticas
-  - Proyecto - #TODO
+  - Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab :link:](https://petab.readthedocs.io/en/stable/) 
+        para el software de optimización metaheurística [MEIGO :link:](http://gingproc.iim.csic.es/meigo.html)
   - Funciones - #TODO
   - _Stack_ - #TODO
 
@@ -47,7 +48,7 @@ __Instituto de Investigaciones Marinas, CSIC__, Vigo
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 
 - Becario
-  - Proyecto - Desarrollo en __Python__ y __C++__ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica en colaboración con el Dpto. de Matemática Aplicada de la Universidad de Vigo.
+  - Proyecto - Desarrollo en _Python_ y _C++_ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
   - Funciones - #TODO
   - _Stack_ - numpy, pandas, scikit-learn, [trimesh :link:](https://github.com/mikedh/trimesh),  [pybind11 :link:](https://github.com/pybind/pybind11), [cgal :link:](https://www.cgal.org/)...
 
@@ -80,6 +81,6 @@ Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter es
 
 ## Proyectos
 
-### Proyecto de fín de grado
+### PFG
 
-`2017` Diseño y construcción de una impresora de PCBs mediante un láser UV en el Dpto de Ingeniería de Comunicaciones de la Universidad Miguel Hernández de Elche.    
+`2017` Diseño y construcción de una impresora de PCBs mediante un láser UV (proyecto de fin de grado) en el Dpto de Ingeniería de Comunicaciones de la Universidad Miguel Hernández de Elche.    
