@@ -28,25 +28,24 @@ Ingeniero I+D+i en __Cofrico SL__
 ## Experiencia
 
 `2019-Actualmente`
-Ingeniero I+Dì en __Cofrico SL__, A Coruña
+__Cofrico SL__, A Coruña
   
 - Proyecto - #TODO
-- Funciones - #TODO
+- Funciones - Ingeniero I+D+i. 
 - _Stack_ - #TODO
 
 `2019-2020`
-Investigador en prácticas en __Instituto de Investigaciones Marinas, CSIC__, Vigo
+__Instituto de Investigaciones Marinas, CSIC__, Vigo
   
-- Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab :link:](https://petab.readthedocs.io/en/stable/) 
-      para el software de optimización metaheurística [MEIGO :link:](http://gingproc.iim.csic.es/meigo.html)
-- Funciones - #TODO
+- Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab :link:](https://petab.readthedocs.io/en/stable/) para el software de optimización metaheurística [MEIGO :link:](http://gingproc.iim.csic.es/meigo.html)
+- Funciones - Investigador en prácticas.
 - _Stack_ - #TODO
 
 `2018-2019`
-Becario en __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
+__Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
   
 - Proyecto - Desarrollo en _Python_ y _C++_ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
-- Funciones - #TODO
+- Funciones - Becario.
 - _Stack_ - numpy, pandas, scikit-learn, [trimesh :link:](https://github.com/mikedh/trimesh),  [pybind11 :link:](https://github.com/pybind/pybind11), [cgal :link:](https://www.cgal.org/)...
 
 ## Educación
