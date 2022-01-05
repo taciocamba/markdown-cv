@@ -3,7 +3,7 @@ layout: cv
 title: Tacio Camba Espi
 ---
 # Tacio Camba Espi
-Ingeniero
+Ingeniero de software
 
 <div id="webaddress">
 <a href="info@tcamba.dev">info@tcamba.dev</a>
@@ -39,28 +39,25 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 ## Educación
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2020`
+__Universidad de Vigo.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Máster en Matemática Industrial
 
-- Sizar
+`2013-2017`
+__Universidad Miguel Hernández de Elche__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Grado en Ingeniería Electrónica y Automática Industrial
 
-- Fellow
+`2009 - 2013`
+__Universidad Miguel Hernández de Elche__
+
+- Ingeniería Industrial
 
 
 ## Publicaciones
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`2020`
+Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology". PLOS Computational Biology. 17. e1008646. [10.1371/journal.pcbi.1008646](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
