@@ -31,6 +31,7 @@ Ingeniero I+D+i en __Cofrico SL__
 __Cofrico SL__, A Coruña
 
 - Ingeniero I+D+i
+  
   - Proyecto - #TODO
   - Funciones - #TODO
   - _Stack_ - #TODO
@@ -39,6 +40,7 @@ __Cofrico SL__, A Coruña
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
 
 - Investigador en prácticas
+  
   - Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab :link:](https://petab.readthedocs.io/en/stable/) 
         para el software de optimización metaheurística [MEIGO :link:](http://gingproc.iim.csic.es/meigo.html)
   - Funciones - #TODO
@@ -48,6 +50,7 @@ __Instituto de Investigaciones Marinas, CSIC__, Vigo
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 
 - Becario
+  
   - Proyecto - Desarrollo en _Python_ y _C++_ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
   - Funciones - #TODO
   - _Stack_ - numpy, pandas, scikit-learn, [trimesh :link:](https://github.com/mikedh/trimesh),  [pybind11 :link:](https://github.com/pybind/pybind11), [cgal :link:](https://www.cgal.org/)...
@@ -58,7 +61,7 @@ __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 __Universidad de Vigo.__
 
 - Máster en Matemática Industrial
-  - Modelos matemáticos en finanzas, optimización y control, diseño óptimo multidisciplinar, FEM y FDM...
+  - Especialización en modelización - modelos matemáticos en finanzas, optimización y control, diseño óptimo multidisciplinar, FEM y FDM...
 
 `2013-2017`
 __Universidad Miguel Hernández de Elche__
