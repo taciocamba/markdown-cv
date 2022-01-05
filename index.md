@@ -6,7 +6,7 @@ title: Tacio Camba Espi
 Ingeniero I+D+i, Desarrollador
 
 <div id="webaddress">
-<a href="info@tcamba.dev">info@tcamba.dev</a>
+<a href="mailto:info@tcamba.dev">info@tcamba.dev</a>
 | <a href="http://www.tcamba.dev">www.tcamba.dev</a>
 </div>
 
