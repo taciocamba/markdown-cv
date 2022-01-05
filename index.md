@@ -28,18 +28,14 @@ Ingeniero I+D+i en __Cofrico SL__
 ## Experiencia
 
 `2019-Actualmente`
-__Cofrico SL__, A Coruña
-
-Ingeniero I+D+i
+Ingeniero I+Dì en __Cofrico SL__, A Coruña
   
-  - Proyecto - #TODO
-  - Funciones - #TODO
-  - _Stack_ - #TODO
+- Proyecto - #TODO
+- Funciones - #TODO
+- _Stack_ - #TODO
 
 `2019-2020`
-__Instituto de Investigaciones Marinas, CSIC__, Vigo
-
-Investigador en prácticas
+Investigador en prácticas en __Instituto de Investigaciones Marinas, CSIC__, Vigo
   
 - Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab :link:](https://petab.readthedocs.io/en/stable/) 
       para el software de optimización metaheurística [MEIGO :link:](http://gingproc.iim.csic.es/meigo.html)
@@ -47,9 +43,7 @@ Investigador en prácticas
 - _Stack_ - #TODO
 
 `2018-2019`
-__Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
-
-Becario
+Becario en __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
   
 - Proyecto - Desarrollo en _Python_ y _C++_ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
 - Funciones - #TODO
