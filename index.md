@@ -37,7 +37,7 @@ __Cofrico SL__, A Coruña
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
   
-- Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab :link:](https://petab.readthedocs.io/en/stable/) para el software de optimización metaheurística [MEIGO :link:](http://gingproc.iim.csic.es/meigo.html)
+- Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab 🔗](https://petab.readthedocs.io/en/stable/) para el software de optimización metaheurística [MEIGO 🔗](http://gingproc.iim.csic.es/meigo.html)
 - Funciones - Investigador en prácticas.
 - _Stack_ - #TODO
 
@@ -46,7 +46,7 @@ __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
   
 - Proyecto - Desarrollo en _Python_ y _C++_ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
 - Funciones - Becario.
-- _Stack_ - numpy, pandas, scikit-learn, [trimesh :link:](https://github.com/mikedh/trimesh),  [pybind11 :link:](https://github.com/pybind/pybind11), [cgal :link:](https://www.cgal.org/)...
+- _Stack_ - numpy, pandas, scikit-learn, [trimesh 🔗](https://github.com/mikedh/trimesh),  [pybind11 🔗](https://github.com/pybind/pybind11), [cgal 🔗](https://www.cgal.org/)...
 
 ## Educación
 
@@ -72,7 +72,7 @@ __Universidad Miguel Hernández de Elche__
 ### Journals
 
 `2020`
-Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology". PLOS Computational Biology. 17. e1008646. [10.1371/journal.pcbi.1008646 :link:](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
+Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology". PLOS Computational Biology. 17. e1008646. [10.1371/journal.pcbi.1008646 🔗](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
 
 
 ## Proyectos
