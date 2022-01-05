@@ -30,7 +30,7 @@ Ingeniero I+D+i en __Cofrico SL__
 `2019-Actualmente`
 __Cofrico SL__, A Coruña
 
-- Ingeniero I+D+i
+Ingeniero I+D+i
   
   - Proyecto - #TODO
   - Funciones - #TODO
@@ -39,21 +39,21 @@ __Cofrico SL__, A Coruña
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
 
-- Investigador en prácticas
+Investigador en prácticas
   
-  - Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab :link:](https://petab.readthedocs.io/en/stable/) 
-        para el software de optimización metaheurística [MEIGO :link:](http://gingproc.iim.csic.es/meigo.html)
-  - Funciones - #TODO
-  - _Stack_ - #TODO
+- Proyecto - Desarrollo en _MATLAB_ de soporte para el formato de especificación de problemas de estimación de parámetros en biología de sistemas [PEtab :link:](https://petab.readthedocs.io/en/stable/) 
+      para el software de optimización metaheurística [MEIGO :link:](http://gingproc.iim.csic.es/meigo.html)
+- Funciones - #TODO
+- _Stack_ - #TODO
 
 `2018-2019`
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 
-- Becario
+Becario
   
-  - Proyecto - Desarrollo en _Python_ y _C++_ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
-  - Funciones - #TODO
-  - _Stack_ - numpy, pandas, scikit-learn, [trimesh :link:](https://github.com/mikedh/trimesh),  [pybind11 :link:](https://github.com/pybind/pybind11), [cgal :link:](https://www.cgal.org/)...
+- Proyecto - Desarrollo en _Python_ y _C++_ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
+- Funciones - #TODO
+- _Stack_ - numpy, pandas, scikit-learn, [trimesh :link:](https://github.com/mikedh/trimesh),  [pybind11 :link:](https://github.com/pybind/pybind11), [cgal :link:](https://www.cgal.org/)...
 
 ## Educación
 
