@@ -3,7 +3,7 @@ layout: cv
 title: Tacio Camba Espi
 ---
 # Tacio Camba Espi
-Ingeniero de software
+Ingeniero I+D+i, Desarrollador
 
 <div id="webaddress">
 <a href="info@tcamba.dev">info@tcamba.dev</a>
@@ -13,29 +13,43 @@ Ingeniero de software
 
 ## Actualmente
 
-Standing on the shoulders of giants
+Ingeniero I+D+i en __Cofrico SL__
 
-### Specialized in
+### Especializado en
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+#TODO
 
 
-### Research interests
+### Intereses
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+#TODO
 
 
 ## Experiencia
 
-`1600`
-__Royal Mint__, London
+`2019-Actualmente`
+__Cofrico SL__, A Coruña
 
-- Warden
-- Minted coins
+- Ingeniero I+D+i
+  - Proyecto - #TODO
+  - Funciones - #TODO
+  - _Stack_ - #TODO
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019-2020`
+__Instituto de Investigaciones Marinas, CSIC__, Vigo
 
+- Investigador en prácticas
+  - Proyecto - #TODO
+  - Funciones - #TODO
+  - _Stack_ - #TODO
+
+`2018-2019`
+__Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
+
+- Becario
+  - Proyecto - Desarrollo en __Python__ y __C++__ de estrategias para el procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica en colaboración con el Dpto. de Matemática Aplicada de la Universidad de Vigo.
+  - Funciones - #TODO
+  - _Stack_ - numpy, pandas, scikit-learn, [trimesh :link:](https://github.com/mikedh/trimesh),  [pybind11 :link:](https://github.com/pybind/pybind11), [cgal :link:](https://www.cgal.org/)...
 
 ## Educación
 
@@ -43,6 +57,7 @@ __Lucasian professor of Mathematics__, Cambridge University
 __Universidad de Vigo.__
 
 - Máster en Matemática Industrial
+  - Modelos matemáticos en finanzas, optimización y control, diseño óptimo multidisciplinar, FEM y FDM...
 
 `2013-2017`
 __Universidad Miguel Hernández de Elche__
@@ -60,4 +75,11 @@ __Universidad Miguel Hernández de Elche__
 ### Journals
 
 `2020`
-Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology". PLOS Computational Biology. 17. e1008646. [10.1371/journal.pcbi.1008646](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
+Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology". PLOS Computational Biology. 17. e1008646. [10.1371/journal.pcbi.1008646 :link:](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
+
+
+## Proyectos
+
+### Proyecto de fín de grado
+
+`2017` Diseño y construcción de una impresora de PCBs mediante un láser UV en el Dpto de Ingeniería de Comunicaciones de la Universidad Miguel Hernández de Elche.    
