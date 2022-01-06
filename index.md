@@ -34,9 +34,13 @@ __Cofrico SL__, A Coruña
   - Funciones - Apoyo al diseño de la arquitectura, desarrollo, despliegues y análisis de requisitos técnicos del producto.
   - _Stack_ - _Spring Framework_, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, Hibernate, Angular, Keycloak, API Umbrella, Jenkins,  Azure Devops, InfluxDB, Telegraf, Bash scripting, observabilidad con SigNoz y OpenTelemetry, _Gitflow_,  metodología Agile...
 
-  - Proyecto - #TODO
-  - Funciones - #TODO
-  - _Stack_ - #TODO
+  - Proyecto - Motor de reporting para instalaciones de frio, tanto en el sector retail como industrial. 
+  - Funciones - Diseño de la arquitectura, desarrollo, despliegues y análisis de requisitos técnicos del producto.
+  - _Stack_ - _Python_, numpy, pandas, dash, fastapi, #TODO
+
+  - Proyecto - Gemelo digital para instalaciones de frio del sector retail.
+  - Funciones - Diseño de la arquitectura, desarrollo, despliegues y análisis de requisitos técnicos del producto.
+  - _Stack_ - _Python_, numpy, pandas, fastapi, scikit-learn, [xgboost 🔗](https://xgboost.readthedocs.io/en/stable/python/index.html), [prophet 🔗](https://facebook.github.io/prophet/)...
 
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
