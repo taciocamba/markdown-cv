@@ -11,18 +11,9 @@ Ingeniero I+D+i, Desarrollador
 </div>
 
 
-## Actualmente
+## Resumen
 
-Ingeniero I+D+i en __Cofrico SL__
-
-### Especializado en
-
-#TODO
-
-
-### Intereses
-
-#TODO
+Más de 3 años de experiencia en proyectos de desarrollo de software científico, de monitorización industrial y plataformas IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales.
 
 
 ## Experiencia
@@ -32,7 +23,7 @@ __Cofrico SL__, A Coruña
       
   - Proyecto - Producto propio orientado a la monitorización y optimización de instalaciones de frio, a través de sus distintos protocolos de comunicación, tanto en el sector retail como industrial.
   - Funciones - Apoyo al diseño de la arquitectura, desarrollo, despliegues y análisis de requisitos técnicos del producto.
-  - _Stack_ - _Spring Framework_, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, Hibernate, Angular, Keycloak, API Umbrella, Jenkins,  Azure Devops, InfluxDB, Telegraf, Bash scripting, observabilidad con SigNoz y OpenTelemetry, _Gitflow_, metodología agile.
+  - _Stack_ - _Spring Framework_, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, traefik, Hibernate, Angular, Keycloak, API Umbrella, Jenkins,  Azure Devops, InfluxDB, Telegraf, Bash scripting, observabilidad con SigNoz y OpenTelemetry, _Gitflow_, metodología agile.
 
   - Proyecto - Motor de reporting para instalaciones de frio, tanto en el sector retail como industrial. 
   - Funciones - Diseño de la arquitectura, desarrollo, despliegues y análisis de requisitos técnicos del producto.
@@ -46,14 +37,14 @@ __Cofrico SL__, A Coruña
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
 
   - Proyecto - Desarrollo de la especificación [PEtab 🔗](https://petab.readthedocs.io/en/stable/) en [MEIGO 🔗](http://gingproc.iim.csic.es/meigo.html)
-  - Funciones - Investigador en prácticas. #TODO
+  - Funciones - Análisis, desarrollo e integración de la librería.
   - _Stack_ - _MATLAB_, _C++_, [boost 🔗](https://www.boost.org/), [odeint 🔗](https://headmyshoulder.github.io/odeint-v2/)...
 
 `2018-2019`
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
   
-  - Proyecto - Desarrollo de _CLI app_ para procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
-  - Funciones - Becario. #TODO
+  - Proyecto - Desarrollo de _app_ de consola para procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
+  - Funciones - Análisis y desarrollo de la _app_.
   - _Stack_ - _Python_, _C++_, numpy, pandas, scikit-learn, [trimesh 🔗](https://github.com/mikedh/trimesh),  [pybind11 🔗](https://github.com/pybind/pybind11), [cgal 🔗](https://www.cgal.org/)...
 
 ## Educación
@@ -87,4 +78,4 @@ Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter es
 
 ### PFG
 
-`2017` Diseño y construcción de una impresora de PCBs mediante un láser UV (proyecto de fin de grado) en el Dpto de Ingeniería de Comunicaciones de la Universidad Miguel Hernández de Elche.    
+`2017` Diseño y construcción de una impresora de PCBs mediante un láser UV (proyecto de fin de grado) en el Dpto de Ingeniería de Comunicaciones de la Universidad Miguel Hernández de Elche.
