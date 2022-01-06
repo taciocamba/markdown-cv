@@ -23,7 +23,7 @@ __Cofrico SL__, A Coruña
       
   - Proyecto - Producto propio orientado a la monitorización y optimización de instalaciones de frio, a través de sus distintos protocolos de comunicación, tanto en el sector retail como industrial.
   - Funciones - Análisis de requisitos técnicos del producto, apoyo al diseño de la arquitectura, desarrollo y despliegue.
-  - Stack - Spring Framework, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, traefik, Hibernate, Angular, Keycloak, API Umbrella, Jenkins,  Azure Devops, InfluxDB, Telegraf, Bash scripting, observabilidad con SigNoz y OpenTelemetry, Gitflow, metodología agile...
+  - Stack - Spring Framework, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, traefik, Hibernate, Angular, Keycloak, API Umbrella, Jenkins, Azure Devops, InfluxDB, Telegraf, Bash scripting, observabilidad con SigNoz y OpenTelemetry, Gitflow, metodología agile...
 
 
   - Proyecto - Motor de reporting para instalaciones de frio, tanto en el sector retail como industrial. 
