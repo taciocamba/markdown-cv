@@ -25,12 +25,12 @@ __Cofrico SL__, A Coruña
 - Funciones - Análisis de requisitos técnicos del producto, apoyo al diseño de la arquitectura, desarrollo y despliegue.
 - Stack - Spring Framework, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, traefik, Hibernate, Angular, Keycloak, API Umbrella, Jenkins, Azure Devops, InfluxDB, Telegraf, Bash scripting, observabilidad con SigNoz y OpenTelemetry, Gitflow, metodología agile...
 
-` `
+`***`
 - Proyecto - Motor de reporting para instalaciones de frio, tanto en el sector retail como industrial. 
 - Funciones - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue.
 - Stack - Python, numpy, pandas, dash, fastapi...  
 
-` `
+`***`
 - Proyecto - Gemelo digital para instalaciones de frio del sector retail.
 - Funciones - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue. 
 - Stack - Python, numpy, pandas, fastapi, scikit-learn, [xgboost 🔗](https://xgboost.readthedocs.io/en/stable/python/index.html), [prophet 🔗](https://facebook.github.io/prophet/)...
