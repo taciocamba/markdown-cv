@@ -29,17 +29,28 @@ Ingeniero I+D+i en __Cofrico SL__
 
 `2019-Actualmente`
 __Cofrico SL__, A Coruña
+
+    <br/>
   
+    - Proyecto - Producto propio orientado a la monitorización y optimización de instalaciones de frio, a través de sus distintos protocolos de comunicación, tanto en el sector retail como industrial.
+    - Funciones - Apoyo al diseño de la arquitectura, desarrollo, despliegues y análisis de requisitos técnicos del producto.
+    - _Stack_ - _Spring Framework_, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, Hibernate, Angular, Keycloak, API Umbrella, Jenkins,  Azure Devops, InfluxDB, Telegraf, 
+    Bash scripting, observabilidad con SigNoz y OpenTelemetry, _Gitflow_,  metodología Agile...
+
+    ---
+
     - Proyecto - #TODO
-    - Funciones - Ingeniero I+D+i.  #TODO
-    - _Stack_ - _Spring Framework_, #TODO
+    - Funciones - #TODO
+    - _Stack_ - #TODO
 
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
+
+    <br/>
   
     - Proyecto - Desarrollo de la especificación [PEtab 🔗](https://petab.readthedocs.io/en/stable/) en [MEIGO 🔗](http://gingproc.iim.csic.es/meigo.html)
     - Funciones - Investigador en prácticas. #TODO
-    - _Stack_ - _MATLAB_, #TODO
+    - _Stack_ - _MATLAB_, _C++_, [boost 🔗](https://www.boost.org/), [odeint 🔗](https://headmyshoulder.github.io/odeint-v2/)...
 
 `2018-2019`
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
@@ -53,16 +64,22 @@ __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 `2018-2020`
 __Universidad de Vigo.__
 
+    <br/>
+
     - Máster en Matemática Industrial
-    - Especialización en modelización - modelos matemáticos en finanzas, optimización y control, diseño óptimo multidisciplinar, FEM y FDM...
+      - Especialización en modelización - modelos matemáticos en finanzas, optimización y control, diseño óptimo multidisciplinar, FEM y FDM...
 
 `2013-2017`
 __Universidad Miguel Hernández de Elche__
+
+    <br/>
 
     - Grado en Ingeniería Electrónica y Automática Industrial
 
 `2009 - 2013`
 __Universidad Miguel Hernández de Elche__
+
+    <br/>
 
     - Ingeniería Industrial
 
