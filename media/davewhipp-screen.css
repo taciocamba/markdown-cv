@@ -96,7 +96,7 @@ ul {
 
 /*uncomment to get dashes in the list*/
 li:before {
-	content: "-";
+	content: '\2022';
 	position: relative;
 	left: -0.25em;
 }

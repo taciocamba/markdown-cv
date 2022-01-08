@@ -3,6 +3,8 @@
    License: none (public domain)
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -56,7 +58,7 @@ body {
 	font-size: 12pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: 'Lato',Verdana,sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -93,11 +95,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: '\2022';
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -116,7 +118,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: 'Lato',Cousine,Verdana,sans-serif;
 	width: 80%;
 }
 
