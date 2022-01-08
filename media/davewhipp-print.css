@@ -157,7 +157,8 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration:none;
+	text-decoration-color:#bc412b;
 }
 
 a:hover {
