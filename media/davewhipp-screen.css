@@ -95,6 +95,7 @@ ul {
 	margin-bottom: 1.5em;
 	margin-top: 1.5em;
 	list-style-type: square;
+	list-style-position: inside;
 }
 
 /*uncomment to get dashes in the list*/

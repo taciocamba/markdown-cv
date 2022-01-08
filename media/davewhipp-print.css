@@ -94,6 +94,7 @@ ul {
 	width: 75%;
 	margin-bottom: 1em;
 	list-style-type: square;
+	list-style-position: inside;
 	/*margin-top: -0.5em;*/
 }
 
