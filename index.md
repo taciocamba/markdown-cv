@@ -10,6 +10,7 @@ Ingeniero I+D+i, Desarrollador
 | <a href="https://tcamba.dev">tcamba.dev</a>
 </div>
 
+## Resumen
 
 Más de 3 años de experiencia en proyectos de desarrollo de software científico, de monitorización industrial y plataformas IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales.
 
@@ -89,4 +90,6 @@ Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter es
 
 ## Otros
 
-- Inglés - B2
+### Inglés
+
+B2
