@@ -192,6 +192,9 @@ strong {
 	display: none;
 }
 
+i:hover {
+	color: #39f;
+}
 
 
 /*
