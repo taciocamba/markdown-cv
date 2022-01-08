@@ -11,8 +11,6 @@ Ingeniero I+D+i, Desarrollador
 </div>
 
 
-## Resumen
-
 Más de 3 años de experiencia en proyectos de desarrollo de software científico, de monitorización industrial y plataformas IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales.
 
 
@@ -87,3 +85,8 @@ Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter es
 ### PFG
 
 `2017` Diseño y construcción de una impresora de PCBs mediante un láser UV (proyecto de fin de grado) en el Dpto de Ingeniería de Comunicaciones de la Universidad Miguel Hernández de Elche.
+
+
+## Otros
+
+- Inglés - B2
