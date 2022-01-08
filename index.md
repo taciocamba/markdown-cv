@@ -23,37 +23,37 @@ __Cofrico SL__, A Coruña
 
 `***`
       
-- Proyecto - Producto propio orientado a la monitorización y optimización de instalaciones de frio, a través de sus distintos protocolos de comunicación, tanto en el sector retail como industrial.
-- Funciones - Análisis de requisitos técnicos del producto, apoyo al diseño de la arquitectura, desarrollo y despliegue.
-- Stack - Spring Framework, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, traefik, Hibernate, Angular, Keycloak, API Umbrella, Jenkins, Azure Devops, InfluxDB, Telegraf, Bash scripting, observabilidad con SigNoz y OpenTelemetry, Gitflow, metodología agile...
+- <span class="list-header">Proyecto</span> - Producto propio orientado a la monitorización y optimización de instalaciones de frio, a través de sus distintos protocolos de comunicación, tanto en el sector retail como industrial.
+- <span class="list-header">Funciones</span> - Análisis de requisitos técnicos del producto, apoyo al diseño de la arquitectura, desarrollo y despliegue.
+- <span class="list-header">Stack</span> - Spring Framework, Rabbitmq, MySql, MongoDB, Postgres, Docker, Docker-compose, Maven, JDBC, JPA, traefik, Hibernate, Angular, Keycloak, API Umbrella, Jenkins, Azure Devops, InfluxDB, Telegraf, Bash scripting, observabilidad con SigNoz y OpenTelemetry, Gitflow, metodología agile...
 
 `***`
-- Proyecto - Motor de reporting para instalaciones de frio, tanto en el sector retail como industrial. 
-- Funciones - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue.
-- Stack - Python, numpy, pandas, dash, fastapi...  
+- <span class="list-header">Proyecto</span> - Motor de reporting para instalaciones de frio, tanto en el sector retail como industrial. 
+- <span class="list-header">Funciones</span> - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue.
+- <span class="list-header">Stack</span> - Python, numpy, pandas, dash, fastapi...  
 
 `***`
-- Proyecto - Gemelo digital para instalaciones de frio del sector retail.
-- Funciones - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue. 
-- Stack - Python, numpy, pandas, fastapi, scikit-learn, [xgboost](https://xgboost.readthedocs.io/en/stable/python/index.html), [prophet](https://facebook.github.io/prophet/)...
+- <span class="list-header">Proyecto</span> - Gemelo digital para instalaciones de frio del sector retail.
+- <span class="list-header">Funciones</span> - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue. 
+- <span class="list-header">Stack</span> - Python, numpy, pandas, fastapi, scikit-learn, [xgboost](https://xgboost.readthedocs.io/en/stable/python/index.html), [prophet](https://facebook.github.io/prophet/)...
 
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
 
 `***`
 
-- Proyecto - Desarrollo de la especificación [PEtab](https://petab.readthedocs.io/en/stable/) en [MEIGO](http://gingproc.iim.csic.es/meigo.html)
-- Funciones - Análisis, desarrollo e integración de la librería.
-- Stack - MATLAB, C++, [boost](https://www.boost.org/), [odeint](https://headmyshoulder.github.io/odeint-v2/)...
+- <span class="list-header">Proyecto</span> - Desarrollo de la especificación [PEtab](https://petab.readthedocs.io/en/stable/) en [MEIGO](http://gingproc.iim.csic.es/meigo.html)
+- <span class="list-header">Funciones</span> - Análisis, desarrollo e integración de la librería.
+- <span class="list-header">Stack</span> - MATLAB, C++, [boost](https://www.boost.org/), [odeint](https://headmyshoulder.github.io/odeint-v2/)...
 
 `2018-2019`
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 
 `***`
 
-- Proyecto - Desarrollo de _app_ de consola para procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
-- Funciones - Análisis y desarrollo de la _app_.
-- Stack - Python, C++, numpy, pandas, scikit-learn, [trimesh](https://github.com/mikedh/trimesh),  [pybind11](https://github.com/pybind/pybind11), [cgal](https://www.cgal.org/)...
+- <span class="list-header">Proyecto</span> - Desarrollo de _app_ de consola para procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
+- <span class="list-header">Funciones</span> - Análisis y desarrollo de la _app_.
+- <span class="list-header">Stack</span> - Python, C++, numpy, pandas, scikit-learn, [trimesh](https://github.com/mikedh/trimesh),  [pybind11](https://github.com/pybind/pybind11), [cgal](https://www.cgal.org/)...
 
 ## Educación
 

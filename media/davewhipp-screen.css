@@ -51,7 +51,9 @@ table {
 
 /* end of reset */
 
-
+.list-header {
+	color: #aaa;
+}
 
 body {
 	font: normal normal 400;
