@@ -79,7 +79,7 @@ __Universidad Miguel Hernández de Elche__
 ### Journals
 
 `2020`
-Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology". PLOS Computational Biology. 17. e1008646. [10.1371/journal.pcbi.1008646 🔗](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
+Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology". PLOS Computational Biology. 17. e1008646. [10.1371/journal.pcbi.1008646](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
 
 
 ## Proyectos
