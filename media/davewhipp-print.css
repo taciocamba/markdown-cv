@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -91,12 +91,12 @@ ul {
 	left: 25%;
 	width: 75%;
 	margin-bottom: 1em;
+	list-style-type: square;
 	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
 li:before {
-	content: '\2022';
 	position: relative;
 	left: -0.25em;
 }
@@ -117,7 +117,6 @@ li ul {
 }
 
 h1,h2,h3,h4 {
-	font-weight: 100;
 	font-family: 'Lato',Cousine,Verdana,sans-serif;
 	width: 80%;
 }
