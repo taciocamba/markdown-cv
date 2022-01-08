@@ -20,6 +20,8 @@ Más de 3 años de experiencia en proyectos de desarrollo de software científic
 
 `2019-Actualmente`
 __Cofrico SL__, A Coruña
+
+`***`
       
 - Proyecto - Producto propio orientado a la monitorización y optimización de instalaciones de frio, a través de sus distintos protocolos de comunicación, tanto en el sector retail como industrial.
 - Funciones - Análisis de requisitos técnicos del producto, apoyo al diseño de la arquitectura, desarrollo y despliegue.
@@ -38,12 +40,16 @@ __Cofrico SL__, A Coruña
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
 
+`***`
+
 - Proyecto - Desarrollo de la especificación [PEtab 🔗](https://petab.readthedocs.io/en/stable/) en [MEIGO 🔗](http://gingproc.iim.csic.es/meigo.html)
 - Funciones - Análisis, desarrollo e integración de la librería.
 - Stack - MATLAB, C++, [boost 🔗](https://www.boost.org/), [odeint 🔗](https://headmyshoulder.github.io/odeint-v2/)...
 
 `2018-2019`
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
+
+`***`
 
 - Proyecto - Desarrollo de _app_ de consola para procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
 - Funciones - Análisis y desarrollo de la _app_.
