@@ -35,16 +35,16 @@ __Cofrico SL__, A Coruña
 `***`
 - Proyecto - Gemelo digital para instalaciones de frio del sector retail.
 - Funciones - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue. 
-- Stack - Python, numpy, pandas, fastapi, scikit-learn, [xgboost 🔗](https://xgboost.readthedocs.io/en/stable/python/index.html), [prophet 🔗](https://facebook.github.io/prophet/)...
+- Stack - Python, numpy, pandas, fastapi, scikit-learn, [xgboost](https://xgboost.readthedocs.io/en/stable/python/index.html), [prophet](https://facebook.github.io/prophet/)...
 
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
 
 `***`
 
-- Proyecto - Desarrollo de la especificación [PEtab 🔗](https://petab.readthedocs.io/en/stable/) en [MEIGO 🔗](http://gingproc.iim.csic.es/meigo.html)
+- Proyecto - Desarrollo de la especificación [PEtab](https://petab.readthedocs.io/en/stable/) en [MEIGO](http://gingproc.iim.csic.es/meigo.html)
 - Funciones - Análisis, desarrollo e integración de la librería.
-- Stack - MATLAB, C++, [boost 🔗](https://www.boost.org/), [odeint 🔗](https://headmyshoulder.github.io/odeint-v2/)...
+- Stack - MATLAB, C++, [boost](https://www.boost.org/), [odeint](https://headmyshoulder.github.io/odeint-v2/)...
 
 `2018-2019`
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
@@ -53,7 +53,7 @@ __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 
 - Proyecto - Desarrollo de _app_ de consola para procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
 - Funciones - Análisis y desarrollo de la _app_.
-- Stack - Python, C++, numpy, pandas, scikit-learn, [trimesh 🔗](https://github.com/mikedh/trimesh),  [pybind11 🔗](https://github.com/pybind/pybind11), [cgal 🔗](https://www.cgal.org/)...
+- Stack - Python, C++, numpy, pandas, scikit-learn, [trimesh](https://github.com/mikedh/trimesh),  [pybind11](https://github.com/pybind/pybind11), [cgal](https://www.cgal.org/)...
 
 ## Educación
 
