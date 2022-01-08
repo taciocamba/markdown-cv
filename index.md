@@ -12,7 +12,7 @@ Ingeniero I+D+i, Desarrollador
 
 ## Resumen
 
-Más de 3 años de experiencia en proyectos de desarrollo de software científico, de monitorización industrial y plataformas IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales.
+Más de 3 años de experiencia en proyectos de desarrollo de software científico, monitorización industrial y plataformas IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales.
 
 
 ## Experiencia
