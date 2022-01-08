@@ -36,7 +36,7 @@ __Cofrico SL__, A Coruña
 - <span class="list-header">Stack</span> - Python, numpy, pandas, dash, fastapi...  
 
 `---`
-- <span class="list-header">Proyecto</span> - Gemelo digital para instalaciones de frio del sector retail.
+- <span class="list-header">Proyecto</span> - Gemelo digital para simular instalaciones de frio del sector retail utilizando diferentes algoritmos de machine learning.
 - <span class="list-header">Funciones</span> - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue. 
 - <span class="list-header">Stack</span> - Python, numpy, pandas, fastapi, scikit-learn, [xgboost](https://xgboost.readthedocs.io/en/stable/python/index.html), [prophet](https://facebook.github.io/prophet/)...
 
