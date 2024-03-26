@@ -48,7 +48,7 @@ __Cofrico SL__, A Coruña
     - Búsqueda, selección y diseño de planes de provisionamiento y mantenimiento de equipamiento distribuido en plantas
       de cliente.
       - AWS: eks, ec2, elb, iam, s3, elastiCache, r53, certManager
-      - k8s, terraform, GitHub Actions, grafana, prometheus, wireguard...
+      - k8s, helm, helmfile, terraform, GitHub Actions, grafana, prometheus, wireguard...
 
 `---`
 
