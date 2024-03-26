@@ -2,7 +2,9 @@
 layout: cv
 title: Tacio Camba Espi
 ---
+
 # Tacio Camba Espi
+
 Ingeniero I+D+i, Desarrollador
 
 <div id="webaddress">
@@ -15,48 +17,69 @@ Ingeniero I+D+i, Desarrollador
 
 ## Resumen
 
-Más de 3 años de experiencia en proyectos de desarrollo de software científico, monitorización industrial y plataformas IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales.
-
+Más de 4 años de experiencia en proyectos de desarrollo de software científico, monitorización industrial y plataformas
+IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales.
 
 ## Experiencia
 
-`2019-Actualmente`
+`2020-Actualmente`
 
 __Cofrico SL__, A Coruña
 
 `---`
-      
-- <span class="list-header">Proyecto</span> - Producto propio orientado a la monitorización y optimización de instalaciones de frio, a través de sus distintos protocolos de comunicación, tanto en el sector retail como industrial.
-- <span class="list-header">Funciones</span> - Análisis de requisitos técnicos del producto, apoyo al diseño de la arquitectura, desarrollo y despliegue.
-- <span class="list-header">Stack</span> - Spring Framework, RabbitMQ, MySql, Postgres, MongoDB, Docker, Docker Ccompose, Maven, JDBC, JPA, Hibernate, Keycloak, traefik, API Umbrella, Jenkins, Azure Devops, Gitflow, Grafana, InfluxDB, Telegraf, Bash scripting, Angular, observabilidad con SigNoz y OpenTelemetry, metodología agile...
 
-`---`
-- <span class="list-header">Proyecto</span> - Motor de reporting para instalaciones de frio, tanto en el sector retail como industrial. 
-- <span class="list-header">Funciones</span> - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue.
-- <span class="list-header">Stack</span> - Python, numpy, pandas, dash, fastapi...  
+- <span class="list-header">Desarrollador Go</span> (2023 - act.)
+    - Servicios de back, integraciones con protocolos de comunicación industrial...
+    - go-kit, pgxpool, sqlc, watermill, gorm, k3s, podman, ansible...
 
-`---`
-- <span class="list-header">Proyecto</span> - Gemelo digital para simular instalaciones de frio del sector retail utilizando diferentes algoritmos de machine learning.
-- <span class="list-header">Funciones</span> - Análisis de requisitos técnicos del producto, diseño de la arquitectura, desarrollo y despliegue. 
-- <span class="list-header">Stack</span> - Python, numpy, pandas, fastapi, scikit-learn, [xgboost](https://xgboost.readthedocs.io/en/stable/python/index.html), [prophet](https://facebook.github.io/prophet/)...
+
+- <span class="list-header">TL DevOps</span> (2023 - act.)
+    - Gestión y control de equipo DevOps compuesto por 4 personas
+    - Apoyo en el análisis y definición de la arquitectura de servicios y aplicaciones de la plataforma
+    - Comunicación con proveedores y clientes
+    - Agile (Kanban y scrum), jira, trello...
+
+
+- <span class="list-header">DevOps</span> (2022 - 2023)
+    - CI/CD, IaC, provisión y operación de plataforma cloud en AWS y on-premise.
+    - Búsqueda, selección y diseño de planes de provisionamiento y mantenimiento de equipamiento distribuido en plantas
+      de cliente.
+    - AWS (eks, ec2, elb, iam, s3, ...), kubernetes, terraform, github actions, grafana, prometheus,
+      wireguard...
+
+
+- <span class="list-header">Desarrollador Java</span> (2020 - 2022)
+    - Análisis y desarrollo de servicios de back para plataforma de monitorización y análisis de instalaciones
+      industriales
+    - Spring (redis, mysql, postgres, rabbitmq, mongodb...), keycloak, jenkins, docker...
+
+
+- <span class="list-header">Desarrollador Python</span> (2020)
+    - Back office y servicios relacionados con la adquisición, procesamiento y explotación de
+      datos de frio industrial y comercial
+    - Python, uvicorn, fastapi, pandas, scikit-learn, plotly, xgboost...
 
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
 
 `---`
 
-- <span class="list-header">Proyecto</span> - Desarrollo de la especificación [PEtab](https://petab.readthedocs.io/en/stable/) en [MEIGO](http://gingproc.iim.csic.es/meigo.html)
+- <span class="list-header">Proyecto</span> - Desarrollo de la
+  especificación [PEtab](https://petab.readthedocs.io/en/stable/) en [MEIGO](http://gingproc.iim.csic.es/meigo.html)
 - <span class="list-header">Funciones</span> - Análisis, desarrollo e integración de la librería.
-- <span class="list-header">Stack</span> - MATLAB, C++, [boost](https://www.boost.org/), [odeint](https://headmyshoulder.github.io/odeint-v2/)...
+- <span class="list-header">Stack</span> - MATLAB,
+  C++, [boost](https://www.boost.org/), [odeint](https://headmyshoulder.github.io/odeint-v2/)...
 
 `2018-2019`
 __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 
 `---`
 
-- <span class="list-header">Proyecto</span> - Desarrollo de _app_ de consola para procesamiento de geometrías de malla de válvula y raiz aórtica empleadas en simulación numérica.
+- <span class="list-header">Proyecto</span> - Desarrollo de _app_ de consola para procesamiento de geometrías de malla
+  de válvula y raiz aórtica empleadas en simulación numérica.
 - <span class="list-header">Funciones</span> - Análisis y desarrollo de la _app_.
-- <span class="list-header">Stack</span> - Python, C++, numpy, pandas, scikit-learn, [trimesh](https://github.com/mikedh/trimesh),  [pybind11](https://github.com/pybind/pybind11), [cgal](https://www.cgal.org/)...
+- <span class="list-header">Stack</span> - Python, C++, numpy, pandas,
+  scikit-learn, [trimesh](https://github.com/mikedh/trimesh),  [pybind11](https://github.com/pybind/pybind11), [cgal](https://www.cgal.org/)...
 
 ## Educación
 
@@ -64,7 +87,8 @@ __Dpto. de Matemática Aplicada, Universidad de Vigo__, Vigo
 __Universidad de Vigo.__
 
 - Máster en Matemática Industrial
-  - Especialización en modelización - modelos matemáticos en finanzas, optimización y control, diseño óptimo multidisciplinar, FEM y FDM...
+    - Especialización en modelización - modelos matemáticos en finanzas, optimización y control, diseño óptimo
+      multidisciplinar, FEM y FDM...
 
 `2013-2017`
 __Universidad Miguel Hernández de Elche__
@@ -76,20 +100,21 @@ __Universidad Miguel Hernández de Elche__
 
 - Ingeniería Industrial
 
-
 ## Publicaciones
 
 ### Journals
 
 `2020`
-Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology". PLOS Computational Biology. 17. e1008646. [10.1371/journal.pcbi.1008646](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
-
+Schmiester, Leonard, et al. "PEtab—Interoperable specification of parameter estimation problems in systems biology".
+PLOS Computational Biology. 17.
+e1008646. [10.1371/journal.pcbi.1008646](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008646).
 
 ## Proyectos
 
 ### PFG
 
-`2017` Diseño y construcción de una impresora de PCBs mediante un láser UV (proyecto de fin de grado) en el Dpto de Ingeniería de Comunicaciones de la Universidad Miguel Hernández de Elche.
+`2017` Diseño y construcción de una impresora de PCBs mediante un láser UV (proyecto de fin de grado) en el Dpto de
+Ingeniería de Comunicaciones de la Universidad Miguel Hernández de Elche.
 
 ## Otros
 
