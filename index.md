@@ -30,8 +30,8 @@ __Cofrico SL__, A Coruña
 
 - <span class="list-header">Desarrollador Go</span> (2023 - act.)
     - Servicios de back, integraciones con protocolos de comunicación industrial...
-    - go-kit, pgxpool, sqlc, watermill, gorm... 
-    - k3s, podman, ansible, mqtt...
+      - go-kit, pgxpool, sqlc, watermill, gorm... 
+      - k3s, podman, ansible, mqtt...
 
 `---`
 
@@ -39,7 +39,7 @@ __Cofrico SL__, A Coruña
     - Gestión y control de equipo DevOps compuesto por 4 personas
     - Apoyo en el análisis y definición de la arquitectura de servicios y aplicaciones de la plataforma
     - Comunicación con proveedores y clientes
-    - Agile (Kanban y scrum), jira, trello...
+      - Agile (Kanban y scrum), jira, trello...
 
 `---`
 
@@ -47,22 +47,22 @@ __Cofrico SL__, A Coruña
     - CI/CD, IaC, provisión y operación de plataforma cloud en AWS y on-premise.
     - Búsqueda, selección y diseño de planes de provisionamiento y mantenimiento de equipamiento distribuido en plantas
       de cliente.
-    - AWS: eks, ec2, elb, iam, s3, elastiCache, r53, certManager
-    - k8s, terraform, GitHub Actions, grafana, prometheus, wireguard...
+      - AWS: eks, ec2, elb, iam, s3, elastiCache, r53, certManager
+      - k8s, terraform, GitHub Actions, grafana, prometheus, wireguard...
 
 `---`
 
 - <span class="list-header">Desarrollador Java</span> (2020 - 2022)
     - Análisis y desarrollo de servicios de back para plataforma de monitorización y análisis de instalaciones
       industriales
-    - Spring, redis, mysql, postgres, rabbitmq, mongodb, keycloak, jenkins, docker...
+      - Spring, redis, mysql, postgres, rabbitmq, mongodb, keycloak, jenkins, docker...
 
 `---`
 
 - <span class="list-header">Desarrollador Python</span> (2020)
     - Back office y servicios relacionados con la adquisición, procesamiento y explotación de
       datos de frio industrial y comercial
-    - Python, uvicorn, fastapi, pandas, kombu, jinja, scikit-learn, plotly, xgboost...
+      - Python, uvicorn, fastapi, pandas, kombu, jinja, scikit-learn, plotly, xgboost...
 
 `2022-Actualmente`
 __Formación Profesional Montecastelo__, Colegio Montecastelo, Vigo
