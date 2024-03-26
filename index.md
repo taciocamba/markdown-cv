@@ -18,7 +18,7 @@ Ingeniero I+D+i, Desarrollador
 ## Resumen
 
 Más de 4 años de experiencia en proyectos de desarrollo de software científico, monitorización industrial y plataformas
-IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales.
+IoT. Transversalidad, curiosidad y en búsqueda constante de nuevos retos profesionales. Me gusta la gente.
 
 ## Experiencia
 
@@ -31,7 +31,7 @@ __Cofrico SL__, A Coruña
 - <span class="list-header">Desarrollador Go</span> (2023 - act.)
     - Servicios de back, integraciones con protocolos de comunicación industrial...
       - go-kit, pgxpool, sqlc, watermill, gorm... 
-      - k3s, podman, ansible, mqtt...
+      - podman, ansible, mqtt...
 
 `---`
 
