@@ -30,8 +30,10 @@ __Cofrico SL__, A Coruña
 
 - <span class="list-header">Desarrollador Go</span> (2023 - act.)
     - Servicios de back, integraciones con protocolos de comunicación industrial...
-    - go-kit, pgxpool, sqlc, watermill, gorm, k3s, podman, ansible...
+    - go-kit, pgxpool, sqlc, watermill, gorm... 
+    - k3s, podman, ansible, mqtt...
 
+`---`
 
 - <span class="list-header">TL DevOps</span> (2023 - act.)
     - Gestión y control de equipo DevOps compuesto por 4 personas
@@ -39,25 +41,39 @@ __Cofrico SL__, A Coruña
     - Comunicación con proveedores y clientes
     - Agile (Kanban y scrum), jira, trello...
 
+`---`
 
 - <span class="list-header">DevOps</span> (2022 - 2023)
     - CI/CD, IaC, provisión y operación de plataforma cloud en AWS y on-premise.
     - Búsqueda, selección y diseño de planes de provisionamiento y mantenimiento de equipamiento distribuido en plantas
       de cliente.
-    - AWS (eks, ec2, elb, iam, s3, ...), kubernetes, terraform, github actions, grafana, prometheus,
-      wireguard...
+    - AWS: eks, ec2, elb, iam, s3, elastiCache, r53, certManager
+    - k8s, terraform, GitHub Actions, grafana, prometheus, wireguard...
 
+`---`
 
 - <span class="list-header">Desarrollador Java</span> (2020 - 2022)
     - Análisis y desarrollo de servicios de back para plataforma de monitorización y análisis de instalaciones
       industriales
-    - Spring (redis, mysql, postgres, rabbitmq, mongodb...), keycloak, jenkins, docker...
+    - Spring, redis, mysql, postgres, rabbitmq, mongodb, keycloak, jenkins, docker...
 
+`---`
 
 - <span class="list-header">Desarrollador Python</span> (2020)
     - Back office y servicios relacionados con la adquisición, procesamiento y explotación de
       datos de frio industrial y comercial
-    - Python, uvicorn, fastapi, pandas, scikit-learn, plotly, xgboost...
+    - Python, uvicorn, fastapi, pandas, kombu, jinja, scikit-learn, plotly, xgboost...
+
+`2022-Actualmente`
+__Formación Profesional Montecastelo__, Colegio Montecastelo, Vigo
+
+`---`
+
+- <span class="list-header">Docente en ciclos de informática</span>
+  - _Desarrollo de Aplicaciones Web_: Diseño de Interfaces Web, Despliegue de Aplicaciones
+  - _Desarrollo de Aplicaciones Multimedia_: Entornos de Desarrollo
+
+`---`
 
 `2019-2020`
 __Instituto de Investigaciones Marinas, CSIC__, Vigo
